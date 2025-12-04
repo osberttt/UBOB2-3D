@@ -377,6 +377,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16a9426e6142a904d839f0cbb83f34db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  inputActionAsset: {fileID: 0}
   speed: 5
 --- !u!114 &228828772
 MonoBehaviour:
@@ -445,6 +446,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RollingBalls_Sci-fi_1_1
       objectReference: {fileID: 0}
+    - target: {fileID: 7680529403145111814, guid: 853665bfc6ac8324784ed3fc27bb7f73, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -494,6 +499,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16a9426e6142a904d839f0cbb83f34db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  inputActionAsset: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   speed: 5
 --- !u!135 &313624156
 SphereCollider:
