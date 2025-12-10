@@ -164,7 +164,7 @@ MeshCollider:
   m_Mesh: {fileID: 763403563}
 --- !u!33 &82050033
 MeshFilter:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 10
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1425,7 +1425,7 @@ MeshCollider:
   m_Mesh: {fileID: 1213939358}
 --- !u!33 &753701189
 MeshFilter:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 10
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7499,7 +7499,7 @@ MonoBehaviour:
   sprintSpeed: 8
   gravity: -9.81
   jumpHeight: 1.5
-  mouseSensitivity: 20
+  mouseSensitivity: 10
   playerCamera: {fileID: 1810385446}
 --- !u!143 &1711899788
 CharacterController:
@@ -8772,7 +8772,7 @@ MeshCollider:
   m_Mesh: {fileID: 1101860084}
 --- !u!33 &2109089860
 MeshFilter:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 10
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
